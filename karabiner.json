@@ -283,7 +283,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\.adobe\\..*"
+                                            "^(com\\.adobe\\..*|us\\.zoom\\.xos)"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
