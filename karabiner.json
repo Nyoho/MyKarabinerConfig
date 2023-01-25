@@ -771,16 +771,6 @@
                 },
                 {
                     "from": {
-                        "key_code": "left_control"
-                    },
-                    "to": [
-                        {
-                            "key_code": "semicolon"
-                        }
-                    ]
-                },
-                {
-                    "from": {
                         "key_code": "right_command"
                     },
                     "to": [
